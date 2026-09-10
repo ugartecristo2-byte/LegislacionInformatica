@@ -85,3 +85,9 @@ Estados Unidos no cuenta con un único instituto autónomo que concentre ambos t
 - **Derechos de autor:** Protegen las obras creadas por las personas y establecen cómo pueden utilizarse, copiarse o modificarse.
 - **Regulación en la suplantación de profesiones:** Busca evitar que una persona o sistema se haga pasar por un profesional autorizado, especialmente en áreas donde se requiere preparación y certificación.
 - **Responsabilidad de la Inteligencia Artificial:** Se refiere a determinar quién es responsable cuando una IA causa un daño o toma una decisión que afecta a una persona.
+## Actividad 1.5
+
+![[Pasted image 20260910103519.png]]
+
+
+
