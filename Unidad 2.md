@@ -1,4 +1,4 @@
-Derechos ARCO
+## ACTIVIDAD 2.1 Derechos ARCO
 ## Acceso
 Descripción: El titular puede saber qué datos suyos tienes y cómo los tratas.
 Ejemplo: Una persona puede solicitar a una empresa que le muestre qué datos personales tiene registrados sobre ella.
