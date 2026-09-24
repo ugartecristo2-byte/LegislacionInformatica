@@ -14,3 +14,17 @@ Ejemplo: Una persona puede solicitar que eliminen sus datos de una cuenta que ya
 ## Oposición
 Descripción: Puede negarse a que sus datos se usen para determinada finalidad.
 Ejemplo: Una persona puede pedir que sus datos no sean utilizados para enviarle publicidad.
+
+## ACTIVIDAD 2.2 AVISOS DE PRIVACIDAD
+
+SII - NO TIENE - http://sii.pabellon.tecnm.mx/modulos/alu/
+
+CURSOS ITPA - NO TIENE - https://cursos-itpa.net/?redirect=0
+
+TECNM - SI TIENE - https://www.tecnm.mx/
+
+TECNM PABELLON - SI TIENE - https://pabellon.tecnm.mx/itic.php
+
+GOBIERNO DE PABELLON - SI TIENE - https://pabellon.gob.mx/
+
+XBOX - SI TIENE - https://www.xbox.com/es-MX/
